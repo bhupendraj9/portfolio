@@ -16,8 +16,8 @@ const Home = () => {
   <div className='flex flex-col md:flex-row flex-wrap justify-between  px-10 gap-5 md:px-40 md:items-center pt-20 z-0' id='home'>
   
   <div className='flex flex-col gap-4 items-start'>
-   <div className='-mx-2 text-[2em] font-semibold text-gray-900 '>Hello 👋🏻, I am </div>
-   <TypeAnimation className='-mx-2 font-semibold text-indigo-900 -my-2 pb-4'
+   <div className='-mx-3 text-[2em] font-semibold text-gray-900 '>Hello 👋🏻, I am </div>
+   <TypeAnimation className='-mx-3 font-semibold text-indigo-900 -my-2 pb-4'
   sequence={[
     // Same substring at the start will only be typed once, initially
     'Bhupendra Jambhale',
