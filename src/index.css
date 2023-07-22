@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+
+    scrollbar-width: 0px;
+    transition: 1s;
+}
+
+html {
+    scroll-behavior: smooth;
+    scrollbar-gutter: 0;
+}
+
+.sh {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px;
+}
+
+.sh1 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
