@@ -10,9 +10,9 @@ const Profiles = () => {
      <div className='bg-richblack-5 w-full py-4'>
        <div className='text-center font-bold text-2xl  pb-2 text-indigo-600 drop-shadow-lg'>Check Out My Coding Profiles</div>
     <div className='flex gap-4 justify-center items-center'>
-    <a href="https://www.hackerrank.com/bhupendraj9"   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhupendraj9" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/bhupendraj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhupendraj9" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/bhupendraj9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhupendraj9" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/bhupendraj9"   target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="bhupendraj9" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/bhupendraj9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bhupendraj9" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/bhupendraj9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="bhupendraj9" height="30" width="40" /></a>
     
     </div>
      </div>
