@@ -6,6 +6,7 @@ import photo from '../assets/pic.png'
 
 import { TypeAnimation } from 'react-type-animation'
 import Profiles from '../components/Profiles'
+import {FaLinkedinIn,FaGithub,FaInstagram,FaTwitter} from 'react-icons/fa'
 import Contactform from '../components/Contactform'
 const Home = () => {
    
@@ -37,12 +38,12 @@ const Home = () => {
     <img src={photo} alt='ph' className='sh1 rounded-full w-[300px]'></img>
     <div className='flex gap-8 items-center'>
      
-     <a href="https://linkedin.com/in/bhupendra-jambhale-36105722a" className='bg-white sh1 rounded-full p-3' target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhupendra jambhale" height="30" width="30" /></a>
+     <a href="https://linkedin.com/in/bhupendra-jambhale-36105722a" className='bg-white sh1 rounded-full p-3' target="blank"><FaLinkedinIn className='text-xl text-indigo-900'></FaLinkedinIn></a>
 
-     <a href="https://github.com/bhupendraj9" className='bg-white rounded-full sh1 p-3' target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bhupendra jambhale" height="30" width="30" /></a>
+     <a href="https://github.com/bhupendraj9" className='bg-white rounded-full sh1 p-3' target="blank"><FaGithub className='text-xl text-indigo-900'></FaGithub></a>
 
-     <a href="https://instagram.com/bhupendraj_19" target="blank" className='bg-white sh1 rounded-full p-3'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhupendraj_19" height="30" width="30" /></a>
-    <a href="https://twitter.com/bhupendraj_9" target="blank" className='bg-white sh1 rounded-full p-3'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhupendraj_9" height="30" width="30" /></a>
+     <a href="https://instagram.com/bhupendraj_19" target="blank" className='bg-white sh1 rounded-full p-3'><FaInstagram className='text-xl text-indigo-900'></FaInstagram></a>
+    <a href="https://twitter.com/bhupendraj_9" target="blank" className='bg-white sh1 rounded-full p-3'><FaTwitter className='text-xl text-indigo-900'></FaTwitter></a>
 
     </div>
 
