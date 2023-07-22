@@ -86,7 +86,7 @@ const Contactform = () => {
         <div>Mobile : </div>
         <div> 9307767356</div>
         </div>
-        <a className='flex font-bold text-white bg-indigo-600 p-3 my-5' href='../assets/RESUME.pdf'  download>My Resume</a>
+        <a className='flex font-bold text-white bg-indigo-600 p-3 my-5' href='https://drive.google.com/file/d/1K-ag-8r-cniYZvtenHWKNWebQuJgGPRJ/view?usp=sharing' target='_blank' rel='noopener noreferrer'>My Resume</a>
         <div className='text-2xl font-bold text-white flex gap-3 mt-4'>
           <a href='https://linkedin.com/in/bhupendra-jambhale-36105722a'><FaLinkedin></FaLinkedin></a>
           <a href='https://instagram.com/bhupendraj_19'><FaInstagram></FaInstagram></a>
