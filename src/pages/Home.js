@@ -20,7 +20,7 @@ const Home = () => {
    <div className='-mx-3 text-[1.8em] font-semibold text-gray-900 '>Hello 👋🏻, I am </div>
    <TypeAnimation className='-mx-3 font-semibold text-indigo-900 -my-2 pb-4'
   sequence={[
-    // Same substring at the start will only be typed once, initially
+    // Same substring at the start will only be typed once, initiallygit add .
     'Bhupendra Jambhale',
     1000,
     'Web Developer',
@@ -55,7 +55,7 @@ const Home = () => {
     <div className='flex flex-col items-center mt-20 py-20 bg-white'>
      <div className='font-bold text-4xl py-10 drop-shadow-lg text-gray-900' id='about'>ABOUT ME</div>
      <div className='p-6 md:w-[800px] text-lg font-inter text-justify text-gray-800'>
-      I am 3rd year undergraduate pursuing B.Tech in computer Science and Engineering from Walchand College of Engineering,Sangli. I am a Passionate Web developer , With a strong foundation in computer science principles and programming languages, I am eager to apply my knowledge and skills to real-world projects. I have gained knowledge about various areas of computer science, including algorithms, data structures, software engineering, and database management..Overall, I am a dedicated and driven individual seeking opportunities to apply my knowledge, skills, and passion for computer science. 
+      I am 3rd year undergraduate pursuing B.Tech in computer Science and Engineering from Walchand College of Engineering,Sangli. I am a Passionate Web developer, With a strong foundation in computer science principles and programming languages, I am eager to apply my knowledge and skills to real-world projects.I have gained knowledge about various areas of computer science, including algorithms, data structures, software engineering, and database management.Overall, I am a dedicated and driven individual seeking opportunities to apply my knowledge, skills, and passion for computer science. 
      </div>
     </div>
 
