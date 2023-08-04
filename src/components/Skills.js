@@ -7,7 +7,7 @@ const Skills = () => {
     <div className='flex flex-col gap-4'>
     <div className='flex flex-col gap-1'>
       <div className='font-bold text-indigo-600 text-xl flex items-center gap-2'><FaDotCircle></FaDotCircle> Programming Languages</div>
-      <div className='font-bold text-gray-800 pl-6'>C, C++ , Java</div>
+      <div className='font-bold text-gray-800 pl-6'>C, C++ </div>
     </div>
 
     <div className='flex flex-col gap-1'>
@@ -32,7 +32,6 @@ const Skills = () => {
         <div className='flex gap-5'>
         <img src="https://skillicons.dev/icons?i=cpp" className='hover:scale-110' title='C++' loading='lazy' alt="skills logos" /> 
         <img src="https://skillicons.dev/icons?i=c" className='hover:scale-110' title='C' loading='lazy' alt="skills logos" /> 
-        <img src="https://skillicons.dev/icons?i=java" className='hover:scale-110' title='java' loading='lazy' alt="skills logos" /> 
         <img src="https://skillicons.dev/icons?i=github" className='hover:scale-110' title='github' loading='lazy' alt="skills logos" /> 
         </div>
         
