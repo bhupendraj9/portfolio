@@ -48,7 +48,7 @@ const Home = () => {
 
     </div>
 
-    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://drive.google.com/file/d/1K-ag-8r-cniYZvtenHWKNWebQuJgGPRJ/view?usp=sharing' target='_blank' rel='noopener noreferrer'>My Resume</a>
+    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://learn.thecodehelp.in/share-certificate?serialno=HWKKLP1F' target='_blank' rel='noopener noreferrer'>My Resume</a>
    </div>
    </div> 
 
