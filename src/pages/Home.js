@@ -33,7 +33,7 @@ const Home = () => {
   repeat={Infinity}
 /> 
 
-  <a className='hidden md:flex px-6 -mx-2 bg-indigo-500 font-bold font-inter p-3  text-white ' href='https://learn.thecodehelp.in/share-certificate?serialno=HWKKLP1F' target='_blank' rel='noopener noreferrer'>My Resume</a>
+  <a className='hidden md:flex px-6 -mx-2 bg-indigo-500 font-bold font-inter p-3  text-white ' href='https://drive.google.com/file/d/1WudevfuDedSbEaiObcVHOjtbbvobKS2n/view?usp=sharing' target='_blank' rel='noopener noreferrer'>My Resume</a>
   </div> 
    <div className='flex flex-col items-center gap-10'>
     <img src={photo} alt='ph' className='sh1 rounded-full w-[300px]'></img>
@@ -48,7 +48,7 @@ const Home = () => {
 
     </div>
 
-    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://learn.thecodehelp.in/share-certificate?serialno=HWKKLP1F' target='_blank' rel='noopener noreferrer'>My Resume</a>
+    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://drive.google.com/file/d/1WudevfuDedSbEaiObcVHOjtbbvobKS2n/view?usp=sharing' target='_blank' rel='noopener noreferrer'>My Resume</a>
    </div>
    </div> 
 
