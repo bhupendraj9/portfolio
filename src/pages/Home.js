@@ -48,7 +48,7 @@ const Home = () => {
 
     </div>
 
-    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://drive.google.com/file/d/1WudevfuDedSbEaiObcVHOjtbbvobKS2n/view?usp=sharing' target='_blank' rel='noopener noreferrer'>My Resume</a>
+    <a className='flex bg-indigo-500 font-bold font-inter p-3 px-5 text-white md:hidden' href='https://drive.google.com/file/u/2/d/11iC7tmiTScBw1isxSUO-Al8ll7jNEPxQ/view?usp=drive_open' target='_blank' rel='noopener noreferrer'>My Resume</a>
    </div>
    </div> 
 
